@@ -264,6 +264,28 @@ These captures show the requests and responses shared by Vinay. Error responses 
 
 ![Additional capture: Latest Audit Records](screenshots/latest_audit_records.png)
 
+### Hasya's Postman Screenshots
+
+#### Machine Requests
+
+![Hasya Postman: Get All Machines](screenshots/hasya_postman_get_all_machines.png)
+
+![Hasya Postman: Get Machine By ID](screenshots/hasya_postman_get_machine_by_id.png)
+
+![Hasya Postman: Search Machines By Product](screenshots/hasya_postman_search_machines_by_product.png)
+
+![Hasya Postman: Add Machine](screenshots/hasya_postman_add_machine.png)
+
+![Hasya Postman: Update Machine](screenshots/hasya_postman_update_machine.png)
+
+![Hasya Postman: Delete Machine](screenshots/hasya_postman_delete_machine.png)
+
+#### Operator and Assignment Requests
+
+![Hasya Postman: Get All Operators](screenshots/hasya_postman_get_all_operators.png)
+
+![Hasya Postman: Get Assignments](screenshots/hasya_postman_get_assignments.png)
+
 ## Expected HTTP Status Codes
 
 | Status Code | Description |
