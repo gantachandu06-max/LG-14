@@ -198,6 +198,34 @@ Screenshots of the API testing results are stored in the `screenshots/` folder.
 
 ![Postman: Update Machine](screenshots/postman_update_machine.png)
 
+### Additional Postman Screenshots
+
+These captures show the requests and responses shared by Vinay. Error responses are labeled as captured; they are included as testing evidence, not successful CRUD results.
+
+#### Get All Machines
+
+![Vinay Postman: Get All Machines](screenshots/vinay_postman_get_all_machines.png)
+
+#### Get Machine By ID
+
+![Vinay Postman: Get Machine By ID](screenshots/vinay_postman_get_machine_by_id.png)
+
+#### Add Machine Request
+
+![Vinay Postman: Add Machine request response](screenshots/vinay_postman_add_machine_validation.png)
+
+#### Update Machine Request
+
+![Vinay Postman: Update Machine request response](screenshots/vinay_postman_update_machine_validation.png)
+
+#### Delete Machine Request
+
+![Vinay Postman: Delete Machine request response](screenshots/vinay_postman_delete_machine_constraint.png)
+
+#### Search Machines By Product
+
+![Vinay Postman: Search Machines By Product](screenshots/vinay_postman_search_machines_by_product.png)
+
 ## Expected HTTP Status Codes
 
 | Status Code | Description |
