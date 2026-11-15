@@ -296,6 +296,30 @@ These captures show the requests and responses shared by Vinay. Error responses 
 | 404 | Requested resource not found |
 | 500 | Internal server error |
 
+### Susvitha's API Test Screenshots
+
+These screenshots capture the TeaTime API requests tested locally by K. Susvitha.
+
+![Susvitha: Add machine](screenshots/susvitha_add_machine.png)
+
+![Susvitha: Delete machine](screenshots/susvitha_delete_machine.png)
+
+![Susvitha: Get all machines](screenshots/susvitha_get_all_machines.png)
+
+![Susvitha: Get machine by ID](screenshots/susvitha_get_all_machines_by_id.png)
+
+![Susvitha: Get all operators](screenshots/susvitha_get_all_operators.png)
+
+![Susvitha: Get assignments](screenshots/susvitha_get_assignments.png)
+
+![Susvitha: Get operator by ID](screenshots/susvitha_get_operator_by_id.png)
+
+![Susvitha: Latest audit records](screenshots/susvitha_latest_audit_records.png)
+
+![Susvitha: Search machines by product](screenshots/susvitha_search_machine_by_product.png)
+
+![Susvitha: Update machine](screenshots/susvitha_update_machine.png)
+
 ## Team Members
 
 **Group 14 – TeaTime Vending**
