@@ -226,6 +226,44 @@ These captures show the requests and responses shared by Vinay. Error responses 
 
 ![Vinay Postman: Search Machines By Product](screenshots/vinay_postman_search_machines_by_product.png)
 
+### Madhukar's Postman Screenshots
+
+#### Machine Requests
+
+![Madhukar Postman: Get All Machines](screenshots/postman-get-all-machines.png)
+
+![Madhukar Postman: Get Machine By ID](screenshots/postman-get-machine-by-id.png)
+
+![Madhukar Postman: Search Machines By Product](screenshots/postman-search-machines-by-product.png)
+
+![Madhukar Postman: Add Machine error response](screenshots/postman-add-machine-error.png)
+
+![Madhukar Postman: Invalid machine route response](screenshots/postman-invalid-machine-route.png)
+
+#### Operator Requests
+
+![Madhukar Postman: Get All Operators](screenshots/postman-get-all-operators.png)
+
+![Madhukar Postman: Get Operator By ID](screenshots/postman-get-operator-by-id.png)
+
+![Additional capture: Get All Operators](screenshots/get_all_operators.png)
+
+![Additional capture: Get Operator By ID](screenshots/get_operator_by_id.png)
+
+#### Assignments
+
+![Madhukar Postman: Get Assignments](screenshots/postman-get-assignments.png)
+
+![Madhukar Postman: Additional Assignments capture](screenshots/postman-assignments-additional-capture.png)
+
+![Additional capture: Get Assignments](screenshots/get_assignments.png)
+
+#### Audit Records
+
+![Madhukar Postman: Get Latest Audit Records](screenshots/postman-get-audit-records.png)
+
+![Additional capture: Latest Audit Records](screenshots/latest_audit_records.png)
+
 ## Expected HTTP Status Codes
 
 | Status Code | Description |
